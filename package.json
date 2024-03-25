@@ -11,7 +11,7 @@
     "cloudflare": "0.0.6",
     "coffee-script": "~1.6.3",
     "ejs": "*",
-    "express": "3.4.8",
+    "express": "4.19.2",
     "jasmine-node": "1.13.0",
     "mocha": "~1.21.0",
     "mongoose": "3.8.5",
